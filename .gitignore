@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Internal documentation & scratch files
+summary.md
+*.log
+AGENTS.md
+CLAUDE.md
+agents.md
+claude.md
+
+# Credentials & secrets
+*.env
+*.env.*
+*.local
+credentials.json
+
+
